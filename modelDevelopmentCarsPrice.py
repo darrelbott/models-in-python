@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May  9 15:15:59 2019
+Creating models
+Dataset used is of various car attributes and the overall price of that car.
+Models a car can have a predicted price given some attributes if the right model is used.
+
+Final conclusion is at the bottom.
 
 @author: Sphyncx
 """
